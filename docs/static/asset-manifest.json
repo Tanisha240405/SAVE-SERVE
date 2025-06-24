@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SAVE-SERVE/static/css/main.dba767ab.css",
+    "main.js": "/SAVE-SERVE/static/js/main.154ce4cb.js",
+    "index.html": "/SAVE-SERVE/index.html",
+    "main.dba767ab.css.map": "/SAVE-SERVE/static/css/main.dba767ab.css.map",
+    "main.154ce4cb.js.map": "/SAVE-SERVE/static/js/main.154ce4cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba767ab.css",
+    "static/js/main.154ce4cb.js"
+  ]
+}
